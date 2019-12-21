@@ -1,11 +1,11 @@
 # course_scheduler
  
 Installation Step:
-STEP 1 : Jadikan dalam satu folder misalnya "Scheduler"
-STEP 2 : Pindahkan folder kedalam localhost
-STEP 3 : Buka folder "Scheduler" tersebut, kemudian buka application->controller->SiropCont
-STEP 4 : Pada Bagian function sendMail, ganti email dan password sebagai pengirim (terdapat kererangan [Change Here] )
-STEP 5 : Buka aplikasi pada web browser seperti localhost/Scheduler
+1. Jadikan dalam satu folder misalnya "Scheduler"
+2. Pindahkan folder kedalam localhost
+3. Buka folder "Scheduler" tersebut, kemudian buka application->controller->SiropCont
+4. Pada Bagian function sendMail, ganti email dan password sebagai pengirim (terdapat kererangan [Change Here] )
+5. Buka aplikasi pada web browser seperti localhost/Scheduler
 
 Penjelasan:
 1. Buat akun terlebih dahulu. Pada halaman login, klik Create Account
