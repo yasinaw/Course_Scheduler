@@ -1,6 +1,6 @@
 # course_scheduler
  
-Installation Step
+Installation Step:
 STEP 1 : Jadikan dalam satu folder misalnya "Scheduler"
 STEP 2 : Pindahkan folder kedalam localhost
 STEP 3 : Buka folder "Scheduler" tersebut, kemudian buka application->controller->SiropCont
