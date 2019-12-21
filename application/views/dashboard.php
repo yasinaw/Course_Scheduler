@@ -273,12 +273,8 @@
     function checkCookie() {
         var lightbox = getCookie("lightbox");
         if (lightbox === "") { // Cookie not set
-            <?php if(count($tomorrow) >0){ ?>
-                document.forms["myForm"].submit();
+                document.getElementById("myForm").submit();
                 setCookie("lightbox", "seen", 1);
-            <?php } else{ ?>
-                setCookie("lightbox", "seen", 1);
-            <?php } ?>
         }
     }
   </script>
